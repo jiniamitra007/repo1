@@ -11,3 +11,5 @@ adding new line feature 1
 CHAGING FROM JINIAMITRA5
 feture1 local change 1
 feture 1 chnage 2
+feture 1 local change 2
+main change1
